@@ -90,6 +90,10 @@ body {
   .title {
     font-size: 60px;
   }
+  
+  .logo {
+    width: 80%;
+  }
 
   .title-2 {
     font-size: 40px !important;
